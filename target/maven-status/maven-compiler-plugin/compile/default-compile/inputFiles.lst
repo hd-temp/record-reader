@@ -1,0 +1,17 @@
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/common/model/ReaderConstants.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/ReaderMain.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/MedianAge.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/stats/Median.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/MeanBalance.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/json/UserRecordParser.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/filter/EqualsFilter.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/stats/Bin.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/TotalMessageActiveFemale.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/filter/IPeopleFilter.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/stats/Total.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/stats/Mean.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/BinRegistrationYear.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/common/UserRecord.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/MedianFriends.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/Query.java
+/Users/darren.hou/Documents/workspace2/record-reader/src/main/java/com/ai/reader/query/stats/IStatsCollector.java

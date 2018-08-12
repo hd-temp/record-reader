@@ -1,0 +1,139 @@
+[
+  {
+    "guid": "893663ef-1911-4318-a477-626774fc05b6",
+    "isActive": true,
+    "balance": "$4,611.22",
+    "age": 44,
+    "eyeColor": "blue",
+    "name": "Esperanza Wilkerson",
+    "gender": "female",
+    "email": "esperanzawilkerson@avit.com",
+    "phone": "+1 (920) 582-3308",
+    "address": "217 Mill Lane, Fivepointville, North Carolina, 8708",
+    "registered": "2017-11-14T04:11:28 +08:00",
+    "friends": [
+      {
+        "name": "Chan Patel"
+      }
+    ],
+    "greeting": "Hello, Esperanza Wilkerson! You have 82 unread messages.",
+    "favoriteFruit": "blueberry"
+  },
+  {
+    "guid": "183c8860-a428-4c8a-b9a4-8b34a04e1ea9",
+    "isActive": true,
+    "balance": "$4,454.24",
+    "age": 28,
+    "eyeColor": "blue",
+    "name": "Dominique House",
+    "gender": "female",
+    "email": "dominiquehouse@avit.com",
+    "phone": "+1 (845) 452-3132",
+    "address": "777 Kimball Street, Nanafalia, Maine, 6520",
+    "registered": "2016-10-12T07:14:22 +07:00",
+    "friends": [
+      {
+        "name": "Tamara Aguilar"
+      },
+      {
+        "name": "Duke Stark"
+      },
+      {
+        "name": "Farmer Dickerson"
+      },
+      {
+        "name": "Nora William"
+      },
+      {
+        "name": "Ratliff Franco"
+      },
+      {
+        "name": "Jennie Joyce"
+      },
+      {
+        "name": "Jolene Herring"
+      },
+      {
+        "name": "Shields Barr"
+      },
+      {
+        "name": "Gill Santana"
+      }
+    ],
+    "greeting": "Hello, Dominique House! You have 89 unread messages.",
+    "favoriteFruit": "watermelon"
+  },
+  {
+    "guid": "63cd8528-d85c-4017-ad03-3de9cceeadf0",
+    "isActive": true,
+    "balance": "$2,860.31",
+    "age": 25,
+    "eyeColor": "brown",
+    "name": "Rowena Olson",
+    "gender": "female",
+    "email": "rowenaolson@avit.com",
+    "phone": "+1 (939) 600-2607",
+    "address": "832 Colby Court, Wakarusa, Washington, 3112",
+    "registered": "2014-05-27T03:43:59 +07:00",
+    "friends": [
+      {
+        "name": "Janine Bolton"
+      },
+      {
+        "name": "Christa Winters"
+      },
+      {
+        "name": "Holcomb Hubbard"
+      },
+      {
+        "name": "Kendra Mcdonald"
+      }
+    ],
+    "greeting": "Hello, Rowena Olson! You have 62 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "03f9f656-b250-455a-825f-6bb05b36b21c",
+    "isActive": false,
+    "balance": "$9,118.85",
+    "age": 31,
+    "eyeColor": "blue",
+    "name": "Kaitlin Johns",
+    "gender": "female",
+    "email": "kaitlinjohns@avit.com",
+    "phone": "+1 (821) 471-3810",
+    "address": "246 Sumner Place, Chesterfield, Wisconsin, 2513",
+    "registered": "2014-04-15T11:05:16 +07:00",
+    "friends": [
+      {
+        "name": "Lidia Morales"
+      },
+      {
+        "name": "Harris Little"
+      },
+      {
+        "name": "Watkins Petersen"
+      },
+      {
+        "name": "Velazquez Becker"
+      },
+      {
+        "name": "Evangeline Pratt"
+      },
+      {
+        "name": "Goff Pacheco"
+      },
+      {
+        "name": "Leanna Stout"
+      },
+      {
+        "name": "Elsa Wong"
+      },
+      {
+        "name": "Rene Rice"
+      }
+    ],
+    "greeting": "Hello, Kaitlin Johns! You have 79 unread messages.",
+    "favoriteFruit": "pear"
+  }
+]
